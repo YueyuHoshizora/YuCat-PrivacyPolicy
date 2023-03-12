@@ -35,6 +35,7 @@
 
 ## 隱私權政策的變更
 本應用程式可能會定期更新本隱私權政策，以反映我們的實務及法律要求。使用者在使用本應用程式前，請仔細閱讀本隱私權政策。
+隱私權政策變更歷程可以在[這裡](https://github.com/YueyuHoshizora/YuCat-PrivacyPolicy/commits/main/README.md)進行查詢。
 
 ## 聯絡我們
 如果使用者對本隱私權政策有任何疑問或意見，請隨時[聯絡我們](https://github.com/YueyuHoshizora/YuCat-PrivacyPolicy/issues)。
